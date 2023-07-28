@@ -16,14 +16,14 @@ If this is your first time contributing to SwankyHub, a good place to start is t
 |---|---|---|---|---|
 | [swanky-cli](https://github.com/swankyhub/swanky-cli)  | tool  | -  | [README](https://github.com/swankyhub/swanky-cli/blob/master/README.md)  |   |
 | [swanky-node](https://github.com/swankyhub/swanky-node)  | tool  | -  | [README](https://github.com/swankyhub/swanky-node/blob/main/README.md)  |   |
-| [dex]()   | ink!  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/dex/)  |   |
-| [nft]()   | ink!  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/nft/)  |   |
-| [manic-minter ]()  | ink!  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/manic-minter/)  |   |
-| [rmrk-lazy-mint]()   | ink!  | -  | -  |   |
-| [meta-transaction](https://github.com/swankyhub/meta-transaction)   | ink!  | -  | -  |   |
-| [marketplace](https://github.com/swankyhub/marketplace)   | ink!  | -  | -  |   |
-| [lottery](https://github.com/swankyhub/wasm-lottery)  | tool  | ✅  | -  |   |
-| [farming](https://github.com/swankyhub/farming)  | tool  | -  | -  |   |
+| [dex]()   | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/dex/)  |   |
+| [nft]()   | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/nft/)  |   |
+| [manic-minter ]()  | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/manic-minter/)  |   |
+| [rmrk-lazy-mint]()   | example  | -  | -  |   |
+| [meta-transaction](https://github.com/swankyhub/meta-transaction)   | example  | -  | -  |   |
+| [marketplace](https://github.com/swankyhub/marketplace)   | example  | -  | -  |   |
+| [lottery](https://github.com/swankyhub/wasm-lottery)  | example  | ✅  | -  |   |
+| [farming](https://github.com/swankyhub/farming)  | example  | -  | -  |   |
 
 
 ## Swanky Hub challenges for newcomers
