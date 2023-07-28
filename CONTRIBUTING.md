@@ -40,7 +40,7 @@ By participating, you are expected to uphold this code. Please report unacceptab
 > * [ink! Documentation]([Docs](https://use.ink/))
 > * [ink! Docs.rs](https://docs.rs/ink/4.0.0/ink/)
 > * [StackExchange - ink!](https://substrate.stackexchange.com/questions/tagged/ink)
-> * [aWASoMe references](https://github.com/AstarNetwork/aWASoMe)
+> * [aWASoMe references](https://github.com/swankyhub/aWASoMe)
 
 Before you ask a question, it is best to search for existing **Issues** that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 

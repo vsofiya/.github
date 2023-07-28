@@ -8,6 +8,8 @@
 
 If you would like to contribute by adding new repositories or by improving the existing ones, please read our [contribution guidelines](../CONTRIBUTING.md) and [code of conduct](../CODE_OF_CONDUCT.md).
 
+If this is your first time contributing to SwankyHub, a good place to start is to check open tasks in the Housekeeping project [board](https://github.com/orgs/swankyhub/projects/3/views/2). Pick a task and start contributing.
+
 ## Swanky Hub repositories
 
 | repo  | type  | frontend  | tutorial  |   |
@@ -36,4 +38,4 @@ The following challenges are meant to help you get started with ink! smart contr
 We welcome you to suggest new projects for the Swanky Hub. Please read our [New project contribution guidelines](../CONTRIBUTING.md#suggesting-new-project) and [code of conduct](../CODE_OF_CONDUCT.md) before submitting a new project.
 
 ## aWASoMe references
-Check following [aWASoMe](https://github.com/AstarNetwork/aWASoMe) resources.
+Check following [aWASoMe](https://github.com/swankyhub/aWASoMe) resources.
