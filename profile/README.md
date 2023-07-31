@@ -16,10 +16,10 @@ If this is your first time contributing to SwankyHub, a good place to start is t
 |---|---|---|---|---|
 | [swanky-cli](https://github.com/swankyhub/swanky-cli)  | tool  | -  | [README](https://github.com/swankyhub/swanky-cli/blob/master/README.md)  |   |
 | [swanky-node](https://github.com/swankyhub/swanky-node)  | tool  | -  | [README](https://github.com/swankyhub/swanky-node/blob/main/README.md)  |   |
-| [dex]()   | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/dex/)  |   |
-| [nft]()   | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/nft/)  |   |
-| [manic-minter ]()  | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/manic-minter/)  |   |
-| [rmrk-lazy-mint]()   | example  | -  | -  |   |
+| [dex](https://github.com/swankyhub/dex)   | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/dex/)  |   |
+| [nft](https://github.com/swankyhub/nft)   | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/nft/)  |   |
+| [manic-minter ](https://github.com/swankyhub/manic-minter)  | example  | -  | [tutorial](https://docs.astar.network/docs/build/wasm/from-zero-to-ink-hero/manic-minter/)  |   |
+| [rmrk-lazy-mint](https://github.com/swankyhub/rmrk-lazy-mint)   | example  | -  | -  |   |
 | [meta-transaction](https://github.com/swankyhub/meta-transaction)   | example  | -  | -  |   |
 | [marketplace](https://github.com/swankyhub/marketplace)   | example  | -  | -  |   |
 | [lottery](https://github.com/swankyhub/wasm-lottery)  | example  | ✅  | -  |   |
